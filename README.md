@@ -13,7 +13,7 @@
 {% hint style="info" %}
 服务器版本： **`1.18 - 1.18.2`**
 
-服务器直连IP：&#x20;
+服务器直连IP： xlongy.xyz
 {% endhint %}
 
 ### 交流中心

@@ -31,7 +31,7 @@
     * [🐶 战斗宠物](you-xi-nei-rong/zhan-dou-xi-tong/zhan-dou-chong-wu.md)
     * [⛷ MCMMO](you-xi-nei-rong/zhan-dou-xi-tong/mcmmo.md)
   * [🛒 小卖部](you-xi-nei-rong/xiao-mai-bu/README.md)
-    * [🏬 瘾流宝店](you-xi-nei-rong/xiao-mai-bu/yin-liu-bao-dian.md)
+    * [🏬 无想宝店](you-xi-nei-rong/xiao-mai-bu/yin-liu-bao-dian.md)
     * [🪁 特殊物品商城](you-xi-nei-rong/xiao-mai-bu/te-shu-wu-pin-shang-cheng.md)
     * [📦 套餐中心](you-xi-nei-rong/xiao-mai-bu/tao-can-zhong-xin.md)
     * [🔱 VIP中心](you-xi-nei-rong/xiao-mai-bu/vip-zhong-xin.md)
