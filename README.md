@@ -28,6 +28,6 @@
 
 ### 📔 最新公告
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="geng-xin-ri-zhi/2023.05-yue-geng-xin-ri-zhi/" %}
+[2023.05-yue-geng-xin-ri-zhi](geng-xin-ri-zhi/2023.05-yue-geng-xin-ri-zhi/)
 {% endcontent-ref %}
