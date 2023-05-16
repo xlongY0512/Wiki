@@ -22,6 +22,8 @@
 服务器官网：&#x20;
 
 服务器交流群：320728026&#x20;
+
+kook语音频道：[https://kook.top/BCuMWS](https://kook.top/BCuMWS)
 {% endhint %}
 
 
