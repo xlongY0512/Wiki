@@ -23,7 +23,7 @@
 
 服务器交流群：320728026&#x20;
 
-kook语音频道：[https://kook.top/BCuMWS](https://kook.top/BCuMWS)
+kook语音频道：[https://kook.top/sPYQcZ](https://kook.top/sPYQcZ)
 {% endhint %}
 
 
